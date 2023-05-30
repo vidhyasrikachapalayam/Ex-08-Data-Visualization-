@@ -191,7 +191,7 @@ plt.title("Sales and Profit based on Segment,Ship mode and Region")
 # OUPUT
 ![image](https://github.com/vidhyasrikachapalayam/Ex-08-Data-Visualization-/assets/119477817/dd8a6b2d-1b56-4bb6-b699-fd32cbc71a97)
 ![image](https://github.com/vidhyasrikachapalayam/Ex-08-Data-Visualization-/assets/119477817/7e9601e8-0adf-4e55-8f69-d0ac6de6a828)
-![image](https://github.com/vidhyasrikachapalayam/Ex-08-Data-Visualization-/assets/119477817/dae54de2-8233-4d84-bd5c-ea462bae7e66)
+
 ![image](https://github.com/vidhyasrikachapalayam/Ex-08-Data-Visualization-/assets/119477817/511093a9-7c91-4b4d-9ec4-1941f2be7743)
 ![image](https://github.com/vidhyasrikachapalayam/Ex-08-Data-Visualization-/assets/119477817/f7f03a9f-5b6f-4e7f-aec9-4c8286b11602)
 ![image](https://github.com/vidhyasrikachapalayam/Ex-08-Data-Visualization-/assets/119477817/f5016371-fd33-41b6-98df-17cd1bf14527)
