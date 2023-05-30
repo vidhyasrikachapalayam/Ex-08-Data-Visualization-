@@ -199,11 +199,14 @@ plt.title("Sales and Profit based on Segment,Ship mode and Region")
 ![image](https://github.com/vidhyasrikachapalayam/Ex-08-Data-Visualization-/assets/119477817/c33805ca-ab25-47a5-8c04-5fd88d8e9631)
 ![image](https://github.com/vidhyasrikachapalayam/Ex-08-Data-Visualization-/assets/119477817/ec0e60ef-bb44-4a42-947f-d1a0a7951194)
 ![image](https://github.com/vidhyasrikachapalayam/Ex-08-Data-Visualization-/assets/119477817/e064bd83-3ec3-44b8-8677-9313f99f1df0)
-![image](https://github.com/vidhyasrikachapalayam/Ex-08-Data-Visualization-/assets/119477817/fa92f432-8596-4116-aa58-864681573dd7)
+
 ![image](https://github.com/vidhyasrikachapalayam/Ex-08-Data-Visualization-/assets/119477817/08bdcfb6-07ce-4096-84e0-e50184f407de)
 ![image](https://github.com/vidhyasrikachapalayam/Ex-08-Data-Visualization-/assets/119477817/c30b5f80-2934-48a7-99b2-5aec9e93451f)
 ![image](https://github.com/vidhyasrikachapalayam/Ex-08-Data-Visualization-/assets/119477817/7975b055-c7ce-4333-b842-64841424f87e)
 ![image](https://github.com/vidhyasrikachapalayam/Ex-08-Data-Visualization-/assets/119477817/6f3bce25-7ab2-4350-9a5e-91ad9d49135a)
+![image](https://github.com/vidhyasrikachapalayam/Ex-08-Data-Visualization-/assets/119477817/3b65dbce-6896-4337-ae4e-560d9d67314e)
 
+Result :
 
+Hence the data visualization method for the given dataset applied successfull
 
